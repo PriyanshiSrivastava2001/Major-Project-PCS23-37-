@@ -1,4 +1,4 @@
-# Real-time Attentiveness Detection System
+# Real-time Attentiveness Detection System 
 There had been a lot of technological shifts going on, but this was boosted due to pandemic. 
 During the pandemic a new trend started where students and employees would attend classes 
 and meetings remotely. This complete shift to online mode led to more instances where the 
@@ -15,8 +15,7 @@ According to the state of the attendee their attentiveness will be judged, and t
 triggered in inattentive states (i.e., drowsy, and sleepy). The attendance will be then marked 
 on the basis of final score.
 
-Major Project (PCS23-37) 
-# Group Members- 
+# Group Members (PCS23-37) - 
 Priyanshi Srivastava,
 Vidushi Bhatnagar,
 Rishabh Jain
