@@ -16,7 +16,7 @@ triggered in inattentive states (i.e., drowsy, and sleepy). The attendance will 
 on the basis of final score.
 
 Major Project (PCS23-37) 
-Group Members- 
-Priyanshi Srivastava
-Vidushi Bhatnagar
+# Group Members- 
+Priyanshi Srivastava,
+Vidushi Bhatnagar,
 Rishabh Jain
