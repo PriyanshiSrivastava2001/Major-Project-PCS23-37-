@@ -15,7 +15,7 @@ According to the state of the attendee their attentiveness will be judged, and t
 triggered in inattentive states (i.e., drowsy, and sleepy). The attendance will be then marked 
 on the basis of final score.
 
-# Group Members (PCS23-37) - 
+# Group Members (PCS23-37) 
 Priyanshi Srivastava,
 Vidushi Bhatnagar,
 Rishabh Jain
